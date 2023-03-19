@@ -1,0 +1,29 @@
+.div {
+    padding: 1em;
+    background-color: lightgreen;
+    border: 1px solid darkgreen;
+    width: 60ch;
+    margin: 16px 118.8px;
+}
+
+.div--secondary {
+    background-color: lightblue;
+}
+
+.div__item {
+    color: inherit;
+}
+
+.div__item--link {
+    background-color: yellow;
+    padding: 0px 6.4px;
+    color: green;
+}
+
+.div__item--active {
+    background-color: yellow;
+}
+
+.div__item--active--red {
+    background-color: red;
+}
